@@ -107,6 +107,7 @@ vim.opt.conceallevel = 1
 --  Experiment for yourself to see if you like it!
 vim.opt.relativenumber = true
 vim.wo.number = true
+vim.opt.cursorline = true
 
 -- Enable mouse mode, can be useful for resizing splits for example!
 vim.opt.mouse = 'a'
